@@ -8,7 +8,6 @@ Welcome to the Java Programming Repository! This repository contains a variety o
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Contributions](#contributions)
-- [License](#license)
 
 ## Introduction
 

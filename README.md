@@ -48,7 +48,3 @@ To contribute:
 3. Commit your changes and push to your branch.
 4. Create a pull request against the `main` branch of this repository.
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-

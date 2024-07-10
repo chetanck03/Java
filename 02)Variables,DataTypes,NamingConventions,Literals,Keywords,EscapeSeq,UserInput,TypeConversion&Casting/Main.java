@@ -17,9 +17,9 @@ public class Main{
         System.out.println("Good Morning "+name);
 
         // Question 2
-        System.out.print("Enter your First Number: ");
+        System.out.print("Enter First Number: ");
         int a = input.nextInt();
-        System.out.print("Enter your Second Number: ");
+        System.out.print("Enter Second Number: ");
         int b = input.nextInt();
 
         int sum = a+b;

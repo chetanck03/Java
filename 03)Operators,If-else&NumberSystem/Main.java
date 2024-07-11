@@ -1,5 +1,5 @@
 /*
-  1) Create a program to swap two Numbers.
+   Create a program to swap two Numbers.
  
 */
 import java.util.Scanner;
